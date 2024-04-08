@@ -1,0 +1,1 @@
+SQLALCHEMY_DATABASE_URI = 'mysql://root:12345678@localhost/biblioteca'
